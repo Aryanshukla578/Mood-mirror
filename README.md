@@ -1,9 +1,5 @@
 # Mood mirror app
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/aryanshukla578s-projects/v0-mood-mirror-app)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/o7AXHwc4G6t)
 
 ## Overview
 
@@ -14,12 +10,8 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/aryanshukla578s-projects/v0-mood-mirror-app]([[https://vercel.com/aryanshukla578s-projects/v0-mood-mirror-app](https://v0-mood-mirror-lae273irv-aryanshukla578s-projects.vercel.app/](https://v0-mood-mirror-lae273irv-aryanshukla578s-projects.vercel.app/)))**
+**[https://v0-mood-mirror-lae273irv-aryanshukla578s-projects.vercel.app/]([[https://vercel.com/aryanshukla578s-projects/v0-mood-mirror-app](https://v0-mood-mirror-lae273irv-aryanshukla578s-projects.vercel.app/](https://v0-mood-mirror-lae273irv-aryanshukla578s-projects.vercel.app/)))**
 
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/o7AXHwc4G6t](https://v0.dev/chat/projects/o7AXHwc4G6t)**
 
 ## How It Works
 
