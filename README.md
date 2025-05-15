@@ -14,9 +14,8 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/aryanshukla578s-projects/v0-mood-mirror-app]([https://vercel.com/aryanshukla578s-projects/v0-mood-mirror-app](https://v0-mood-mirror-lae273irv-aryanshukla578s-projects.vercel.app/))**
+**[https://vercel.com/aryanshukla578s-projects/v0-mood-mirror-app]([[https://vercel.com/aryanshukla578s-projects/v0-mood-mirror-app](https://v0-mood-mirror-lae273irv-aryanshukla578s-projects.vercel.app/](https://v0-mood-mirror-lae273irv-aryanshukla578s-projects.vercel.app/)))**
 
-## Build your app
 
 Continue building your app on:
 
